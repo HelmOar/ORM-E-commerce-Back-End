@@ -12,7 +12,6 @@ Category.init(
       allowNull: false, //does not allow null
       primaryKey: true, //primary key set
       autoIncrement: true, //auto increment set for each new entry
-
     },
 
     category_name: {
