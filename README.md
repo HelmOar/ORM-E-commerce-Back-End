@@ -4,7 +4,7 @@
 
 
 ## Description
-The backend database has been created to support e-commerce websites using Express.js API and Sequelize to connect to the MySQL database. The backend database allows the user to create a development database, seed it with test data and sync several Sequelize models to the MySQL database. The user has the ability to use GET, POST, DELETE and PUT routes to display and update data in their database. 
+The backend database has been created to support e-commerce websites using Express.js API and Sequelize to connect to the MySQL database. The backend database allows the user to create a developmental database, seed it with test data and sync several Sequelize models to the MySQL database. The user has the ability to use GET, POST, DELETE and PUT routes to display and update data in their database. 
 
 
 ## Table of Contents
@@ -24,7 +24,7 @@ The backend database has been created to support e-commerce websites using Expre
 
 ## Usage
 - Create database by running the schema.sql file. 
-- Quit mySQL and run "npm run seed" to seed database with the test data. Then run "npm start" or "nodemon"to start the server and sync the Sequelize models to the MySQL database.
+- Quit mySQL and run "npm run seed" to seed database with the test data. Then run "node server.js" or "nodemon server.js" to start the server and sync the Sequelize models to the MySQL database.
 - You will now have a test database.
 - Use Insomnia to test at port localhost:3001 You will be able to test the following API endpoints - GET, POST, DELETE and PUT routes for the categories, products and tags. You will now be able to view, create, update and delete your data. 
 
