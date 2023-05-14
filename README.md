@@ -32,7 +32,7 @@ The backend database has been created to support e-commerce websites using Expre
 - Use Insomnia to test at port localhost:3001 You will be able to test the following API endpoints - GET, POST, DELETE and PUT routes for the categories, products and tags. You will now be able to view, create, update and delete your data. 
 
 
-## Walk Through Video![ORM-E_commerce-Back_End]
+## Walk Through Video[ORM-E_commerce-Back_End]
 
 
 [Video](https://youtu.be/NMWtiSWO9G8)
