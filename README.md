@@ -23,15 +23,18 @@ The backend database has been created to support e-commerce websites using Expre
 
 
 ## Usage
+
+(https://github.com/HelmOar/ORM-E-commerce-Back-End/assets/122151785/65484716-879a-49fa-961e-6bc9635a6190)
 - Create database by running the schema.sql file. 
 - Quit mySQL and run "npm run seed" to seed database with the test data. Then run "node server.js" or "nodemon server.js" to start the server and sync the Sequelize models to the MySQL database.
 - You will now have a test database.
 - Use Insomnia to test at port localhost:3001 You will be able to test the following API endpoints - GET, POST, DELETE and PUT routes for the categories, products and tags. You will now be able to view, create, update and delete your data. 
 
 
-## Walk Through Video
+## Walk Through Video![ORM-E_commerce-Back_End]
 
-[Video](https://you)
+
+[Video](https://youtu.be/NMWtiSWO9G8)
 
 ## Contributing
 chelmore1@bigpond.com
