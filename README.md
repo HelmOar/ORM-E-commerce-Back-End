@@ -24,7 +24,8 @@ The backend database has been created to support e-commerce websites using Expre
 
 ## Usage
 
-(https://github.com/HelmOar/ORM-E-commerce-Back-End/assets/122151785/65484716-879a-49fa-961e-6bc9635a6190)
+ [![image](https://github.com/HelmOar/ORM-E-commerce-Back-End/assets/122151785/65484716-879a-49fa-961e-6bc9635a6190)
+ 
 - Create database by running the schema.sql file. 
 - Quit mySQL and run "npm run seed" to seed database with the test data. Then run "node server.js" or "nodemon server.js" to start the server and sync the Sequelize models to the MySQL database.
 - You will now have a test database.
